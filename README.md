@@ -1,4 +1,4 @@
-# NCDs THESIS PROJECT
+# NCDs  PROJECT
 
 A new Flutter project.
 
