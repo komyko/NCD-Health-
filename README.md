@@ -1,6 +1,6 @@
 # NCDs  PROJECT
 
-A new Flutter project.
+A new Flutter Flow project.
 
 ## Getting Started
 
