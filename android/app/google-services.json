@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140913412758",
+    "project_id": "ncdshealthproject",
+    "storage_bucket": "ncdshealthproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140913412758:android:5e69911d5a707c18fc50b7",
+        "android_client_info": {
+          "package_name": "com.mycompany.ncdsthesisproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4sc3Wi0giGY3w8y9UsP7lO0FyfzpllZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
